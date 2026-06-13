@@ -1,6 +1,6 @@
-# otmanetahri.github.io
+# langoway.github.io
 
-Personal GitHub Pages user site for **Otmane Tahri**.
+GitHub Pages user site for **Langoway**.
 
 ## Purpose
 
@@ -10,7 +10,7 @@ publisher identity for mobile apps.
 Once the site is live, the file is accessible at:
 
 ```
-https://otmanetahri.github.io/app-ads.txt
+https://langoway.github.io/app-ads.txt
 ```
 
 ## Why app-ads.txt?
@@ -32,9 +32,9 @@ with your developer website.
 
 1. Replace `pub-XXXXXXXXXXXXXXXX` in `app-ads.txt` with your real AdMob Publisher ID
    (found in AdMob → Account → Publisher ID).
-2. Push this repo to GitHub as `otmanetahri/otmanetahri.github.io`.
+2. Push this repo to GitHub as `langoway/langoway.github.io`.
 3. Enable GitHub Pages in **Settings → Pages → Source: main branch, / (root)**.
-4. In AdMob, set your app's developer website to `https://otmanetahri.github.io`.
+4. In AdMob, set your app's developer website to `https://langoway.github.io`.
 
-The file will be live at `https://otmanetahri.github.io/app-ads.txt` within minutes
+The file will be live at `https://langoway.github.io/app-ads.txt` within minutes
 of enabling Pages.
